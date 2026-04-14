@@ -1,4 +1,4 @@
-# 📱 PopMart Store Backend - Nuxt API
+# PopMart Store Backend - Nuxt API
 
 Backend API para la tienda online de **PopMart** desarrollada con **Nuxt 3**, **Drizzle ORM** y **SQLite**. Incluye autenticación con JWT, gestión de collectibles y peluches, y middleware de seguridad.
 
@@ -14,7 +14,7 @@ API REST completa para la venta de figuras coleccionables y peluches PopMart que
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - **Nuxt 3** - Framework full-stack Vue
 - **Drizzle ORM** - ORM type-safe para SQLite
@@ -337,7 +337,7 @@ El sistema de autenticación utiliza **JWT (JSON Web Tokens)** a través del mó
 
 ---
 
-## 🏗️ Producción
+##  Producción
 
 ### Build
 
@@ -357,7 +357,7 @@ npm run preview
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 ├── app/
@@ -386,7 +386,7 @@ npm run preview
 
 ---
 
-## 🧸 Colecciones PopMart Soportadas
+##  Colecciones PopMart Soportadas
 
 - **Molly** - Mascota icónica con múltiples series y variantes
 - **Crybaby** - Serie emotiva con diferentes temas (Mermaid, Space, etc)
@@ -397,7 +397,7 @@ npm run preview
 
 ---
 
-## 📚 Documentación Adicional
+##  Documentación Adicional
 
 - [Nuxt Docs](https://nuxt.com/docs)
 - [Drizzle ORM](https://orm.drizzle.team/)
@@ -406,10 +406,10 @@ npm run preview
 
 ---
 
-## 📝 Licencia
+##  Licencia
 
 Proyecto desarrollado por Sara Tamurejo Mora
 
 ---
 
-¡Tienda PopMart lista para producción! 🧸🚀
+¡Tienda PopMart lista para producción!
